@@ -27,9 +27,9 @@
 // let courses=['it','java','pythin','javascrpt']
 //for(i=0; i< courses.length; i++)
 //{
-  //  console.log(courses)
+  // console.log(courses)
 //}
 
 
- let result= courses.pop()
-console.log(result)
+ //let result= courses.pop()
+//console.log(result)
